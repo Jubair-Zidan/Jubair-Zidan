@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jubair-Zidan
+- 👋 Hi, I’m Jubair-Zidan
 - 👀 I’m interested in Tech Related Stuf
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on frontend development
