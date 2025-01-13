@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jubair-Zidan
 - 👀 I’m interested in Tech Related Stuf
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning CSS and C++
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me jubair.zidann@gmail.com
 
