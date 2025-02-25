@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jubair-Zidan
 - 👀 I’m interested in Tech Related Stuf
-- 🌱 I’m currently learning CSS and C++
+- 🌱 I’m currently learning Frontend development C++ and C
 - 💞️ I’m looking to collaborate on frontend development
-- 📫 How to reach me jubair.zidann@gmail.com
+- 📫 How to reach me jubair.zidann@gmail.com 
 
 <!---
 Jubair-Zidan/Jubair-Zidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
