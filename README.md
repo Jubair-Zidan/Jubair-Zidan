@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jubair-Zidan
 - 👀 I’m interested in Tech Related Stuf
-- 🌱 I’m currently learning Frontend development C++ and C
+- 🌱 I’m currently focusing on HTML,CSS,Tailwind CSS,Java-script & react.js
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me jubair.zidann@gmail.com 
 
